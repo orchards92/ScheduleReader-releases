@@ -1,0 +1,8 @@
+{
+  "version": "1.5.12",
+  "date": "Oct 30, 2026",
+  "notes": [
+    "Updates: there's a new button next to Settings. When Schedule Reader opens, it quietly checks for a newer version. If there is one, the button turns green and says \"Update available\". Click it to see what's new, then click Update now. Edge asks if it may open Schedule Reader Updater; click Open. The new version downloads, installs and reopens by itself. Your jobs and settings stay.",
+    "No internet? The button just says \"Check for updates\". Nothing pops up when the program opens."
+  ]
+}
