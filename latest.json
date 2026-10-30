@@ -1,7 +1,7 @@
 {
-  "version": "1.5.13",
+  "version": "1.5.14",
   "date": "Oct 30, 2026",
   "notes": [
-    "The version number now shows at the top left, next to \"Part of Steve's Tools\", so you can tell at a glance which version you have."
+    "Test release for the new one-step publishing. Nothing else changed."
   ]
 }
