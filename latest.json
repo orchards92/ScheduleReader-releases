@@ -1,7 +1,7 @@
 {
-  "version": "1.5.14",
-  "date": "Oct 30, 2026",
+  "version": "1.5.16",
+  "date": "Nov 4, 2026",
   "notes": [
-    "Test release for the new one-step publishing. Nothing else changed."
+    "Group headings that are printed without dates (like \"Permitting\", \"Design Work\" or \"Preconstruction\") now come in as headings, with the tasks grouped under them. Their dates are the earliest start and latest finish of the tasks under them. Before, these headings were left out, so the tasks had no grouping."
   ]
 }
